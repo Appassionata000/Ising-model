@@ -1,1 +1,3 @@
 # Ising-model
+
+$$H$$
